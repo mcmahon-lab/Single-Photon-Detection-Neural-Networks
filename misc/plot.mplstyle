@@ -1,0 +1,16 @@
+font.family : Arial
+axes.titlesize : 12
+axes.labelsize : 12
+lines.linewidth : 1.2
+legend.fontsize : 10
+figure.titlesize : 12
+xtick.labelsize : 10
+ytick.labelsize : 10
+xtick.direction : in
+ytick.direction : in
+xtick.major.size : 3
+xtick.major.width : 1
+ytick.major.size : 3
+ytick.major.width : 1
+ytick.right : True
+ytick.labelright : False
